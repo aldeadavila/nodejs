@@ -1,0 +1,25 @@
+{
+  "name": "hola_express",
+  "version": "1.0.0",
+  "description": "Hola mundo con express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldeadavila/nodejs.git"
+  },
+  "keywords": [
+    "marquina"
+  ],
+  "author": "fco marquina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldeadavila/nodejs/issues"
+  },
+  "homepage": "https://github.com/aldeadavila/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
